@@ -4,6 +4,7 @@
     border-radius: 20px;
     margin: 0px;
     background-image: linear-gradient(#bd09b7, #6b4cf5);
+    box-shadow: 7px 13px 37px; 
 }
 
 h1{
